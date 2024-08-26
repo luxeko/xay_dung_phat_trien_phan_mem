@@ -1,0 +1,8 @@
+B1: Clone project
+B2: cd bankend 
+- Chạy lệnh composer install
+- 
+
+- Cài gói sanctum để sử dụng được HasApiTokens: 
+composer require laravel/sanctum
+composer require tymon/jwt-auth
